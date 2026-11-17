@@ -1,0 +1,8 @@
+# py -m pip install -r requerimientos.txt
+
+pandas
+numpy
+matplotlib
+pathlib
+openpyxl
+
