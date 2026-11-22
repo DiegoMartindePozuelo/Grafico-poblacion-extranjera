@@ -8,7 +8,7 @@ raiz = Path(__file__).parent.parent
 
 archivo = raiz / "datos" / "población_extranjera_españa.xlsx"
 
-# adgsajdgasjd
+
 df = pd.read_excel(archivo, header=None)
 
 matriz = np.array([
